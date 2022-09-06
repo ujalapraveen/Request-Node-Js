@@ -1,0 +1,12 @@
+{
+    "id": "5923",
+    "parent_exercise_id": "5918",
+    "name": "Variable Naming Exercise 2",
+    "slug": "variables__variables/variables-naming-question2_md",
+    "sequence_num": 5,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\n  \"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"variables-naming-question2_key1\\\\n1. variables-naming-question2_key2\\\\n2. variables-naming-question2_key3\\\\n\\\"}\"\n]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-question2.md"
+}
